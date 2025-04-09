@@ -42,6 +42,21 @@
 
 <br/><br/>
 
+ <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/purvangpatel03/purvangpatel03/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/purvangpatel03/purvangpatel03/blob/manual-run-output/docker/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/purvangpatel03/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 <hr/>
 
 
