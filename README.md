@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @purvangpatel03
 - 👀 I’m interested in Mobile Application Development 
 - 🌱 I’m proficient in Flutter, Dart, Firebase and Git.
-- 📫 My Portfoilio Link :- <a href="https://purvang.vercel.app" target="_blank">purvangpatel03.github.io</a>
+- 📫 My Portfoilio Link :- <a href="https://purvang.vercel.app" target="_blank">Purvang</a>
 
 
 📖 I enjoy learning new technologies and new programming languages by making something from scratch step by step as well as working on real-world projects as part of my day-to-day job 🛠
